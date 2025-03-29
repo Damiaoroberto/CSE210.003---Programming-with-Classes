@@ -1,0 +1,14 @@
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\bin\Debug\net9.0\OnlineOrderingProgram.exe
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\bin\Debug\net9.0\OnlineOrderingProgram.deps.json
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\bin\Debug\net9.0\OnlineOrderingProgram.runtimeconfig.json
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\bin\Debug\net9.0\OnlineOrderingProgram.dll
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\bin\Debug\net9.0\OnlineOrderingProgram.pdb
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.AssemblyInfoInputs.cache
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.AssemblyInfo.cs
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.csproj.CoreCompileInputs.cache
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.dll
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\refint\OnlineOrderingProgram.dll
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.pdb
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\OnlineOrderingProgram.genruntimeconfig.cache
+C:\Users\DENNY ROBERT\Documents\C#\OnlineOrderingProgram\obj\Debug\net9.0\ref\OnlineOrderingProgram.dll
