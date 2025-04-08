@@ -1,0 +1,14 @@
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.exe
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.deps.json
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.runtimeconfig.json
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.dll
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.pdb
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.AssemblyInfoInputs.cache
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.AssemblyInfo.cs
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.csproj.CoreCompileInputs.cache
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.dll
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\refint\MindfulnessApp.dll
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.pdb
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.genruntimeconfig.cache
+C:\Users\DENNY ROBERT\Documents\C#\MindfulnessApp\obj\Debug\net9.0\ref\MindfulnessApp.dll
